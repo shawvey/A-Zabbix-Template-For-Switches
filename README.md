@@ -1,4 +1,4 @@
-# A-Zabbix-Template-For-Ruijie-Switches
+# A-Zabbix-Template-For-Switches
 一个所有交换机类型均可通用的zabbix模板，模板包含以下监控项：
 1、ifType 接口的类型 取值117表示接口为GigabitEthernet取值62表示借口为FastEnthernet
 2、ifDescr 接口类型的描述 有GigabitEthernet、FastEthernet等
